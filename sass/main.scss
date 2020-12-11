@@ -11,9 +11,11 @@
 
 /*COMPONENT*/
 @import "component/button";
+@import "component/imageComposition";
 
 /*LAYOUT*/
 @import "layout/header";
+@import "layout/grid";
 
 /*PAGE*/
 @import "page/home";
